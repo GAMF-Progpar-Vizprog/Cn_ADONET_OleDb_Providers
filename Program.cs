@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Data.OleDb;
-namespace CnAN_Providers
+namespace Cn_ADONET_OleDb_Providers
 {
 	class Program
 	{

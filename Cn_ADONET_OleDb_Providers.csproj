@@ -1,8 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyName>Cn-ADONET-Providers</AssemblyName>
-    <RootNamespace>Cn-ADONET-Providers</RootNamespace>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0-windows</TargetFramework>
   </PropertyGroup>
